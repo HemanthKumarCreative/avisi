@@ -1,6 +1,6 @@
 {
     "name": "avisi",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Get to know Avisi via `npx avisi`",
     "bin": {
         "avisi": "index.js"
