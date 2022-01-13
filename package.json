@@ -14,5 +14,12 @@
         "hemanth",
         "kumar",
         "hemanth kumar"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository":"HemanthKumarCreative/avisi",
+    "author": {
+        "name": "Avisi Hemanth Kumar",
+        "email": "avisihks@gmail.com"
+    }
 }
